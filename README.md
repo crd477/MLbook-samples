@@ -1,1 +1,10 @@
-Sample code from Paulson, Lawrence C. <i>ML for the working programmer</i>. Cambridge New York: Cambridge University Press, 1996.
+Sample code from
+
+@Book{paulson1996ml,
+ author = {Paulson, Lawrence},
+ title = {ML for the working programmer},
+ publisher = {Cambridge University Press},
+ year = {1996},
+ address = {Cambridge New York},
+ isbn = {052156543X}
+ }
